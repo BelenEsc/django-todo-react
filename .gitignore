@@ -12,4 +12,6 @@ db.sqlite3
 node_modules/
 build/
 .env.local
-.DS_Store
+.DS_Store__pycache__/
+*.pyc
+frontend/node_modules/
